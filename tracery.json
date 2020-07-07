@@ -1,7 +1,15 @@
 {
-"origin": ["#daysky1#\n#daysky2#\n#daysky2#\n#city#", "#nightsky1#\n#nightsky2#\n#nightsky2#\n#city#"],
-"cottagescape": ["#building##building##building##building##building##building##building##building#"],
-"ground": [],
+"origin": ["#daysky1#\n#daysky2#\n#daysky2#\n#cottagescape#\n#garden#", "#nightsky1#\n#nightsky2#\n#nightsky2#\n#cottagescape#\n#garden#"],
+"cottagescape": [
+	"#tree##cottage##tree##tree##tree##tree##tree##tree#",
+	"#tree##tree##cottage##tree##tree##tree##tree##tree#",
+	"#tree##tree##tree##cottage##tree##tree##tree##tree#",
+	"#tree##tree##tree##tree##cottage##tree##tree##tree#",
+	"#tree##tree##tree##tree##tree##cottage##tree##tree#",
+	"#tree##tree##tree##tree##tree##tree##cottage##tree#"
+],	
+	
+"garden": ["#flower##flower##flower##flower##flower##flower##flower##flower#"],
   
 "sun":[
 	"🌞",
@@ -93,7 +101,7 @@
 	"🏚"
 ],
 	
-"greenery":[
+"tree":[
 	"🌲",
 	"🌳",
 	"🌲",
@@ -107,9 +115,8 @@
 	"🌱",
 	"🌿",
 	"🌾"
-]
-	
-"garden":[
+],	
+"flower":[
 	"🌷",
 	"🌹",
 	"🌻",
