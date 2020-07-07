@@ -1,5 +1,69 @@
 {
-"origin": ["#daysky1#\n#daysky2#\n#daysky2#\n#cottagescape#\n#garden#", "#nightsky1#\n#nightsky2#\n#nightsky2#\n#cottagescape#\n#garden#"],
+"origin": [
+	"#sunnyday-top#\n#sunnyday-bottom#\n#sunnyday-bottom#\n#cottagescape#\n#garden#", 
+	"#rainyday-top#\n#rainyday-bottom#\n#rainyday-bottom#\n#cottagescape#\n#garden#"],
+	"#night-top#\n#night-bottom#\n#night-bottom#\n#cottagescape#\n#garden#"],
+],
+	
+"sunnyday-top": [
+	"#sun##cloud##cloud##cloud##cloud##cloud##cloud##cloud#",
+	"#cloud##sun##cloud##cloud##cloud##cloud##cloud##cloud#",
+	"#cloud##cloud##sun##cloud##cloud##cloud##cloud##cloud#",
+	"#cloud##cloud##cloud##sun##cloud##cloud##cloud##cloud#",
+	"#cloud##cloud##cloud##cloud##sun##cloud##cloud##cloud#",
+	"#cloud##cloud##cloud##cloud##cloud##sun##cloud##cloud#",
+	"#cloud##cloud##cloud##cloud##cloud##cloud##sun##cloud#",
+	"#cloud##cloud##cloud##cloud##cloud##cloud##cloud##sun#"
+],
+	
+"sunnyday-bottom": [
+	"#cloud##cloud##cloud##cloud##cloud##cloud##cloud##cloud#",
+],
+
+"rainyday-top": [
+	"#overcast-sun##rain##rain##rain##rain##rain##rain##rain#",
+	"#rain##overcast-sun##rain##rain##rain##rain##rain##rain#",
+	"#rain##rain##overcast-sun##rain##rain##rain##rain##rain#",
+	"#rain##rain##rain##overcast-sun##rain##rain##rain##rain#",
+	"#rain##rain##rain##rain##overcast-sun##rain##rain##rain#",
+	"#rain##rain##rain##rain##rain##overcast-sun##rain##rain#",
+	"#rain##rain##rain##rain##rain##rain##overcast-sun##rain#",
+	"#rain##rain##rain##rain##rain##rain##rain##overcast-sun#"
+],
+
+"rainyday-bottom": [
+	"#cloud##rain##rain##rain##rain##rain##rain##rain#",
+	"#rain##cloud##rain##rain##rain##rain##rain##rain#",
+	"#rain##rain##cloud##rain##rain##rain##rain##rain#",
+	"#rain##rain##rain##cloud##rain##rain##rain##rain#",
+	"#rain##rain##rain##rain##cloud##rain##rain##rain#",
+	"#rain##rain##rain##rain##rain##cloud##rain##rain#",
+	"#rain##rain##rain##rain##rain##rain##cloud##rain#",
+	"#rain##rain##rain##rain##rain##rain##rain##cloud#"
+],
+	
+"night-top": [
+	"#moon##star##star##star##star##star##star##star#",
+	"#star##moon##star##star##star##star##star##star#",
+	"#star##star##moon##star##star##star##star##star#",
+	"#star##star##star##moon##star##star##star##star#",
+	"#star##star##star##star##moon##star##star##star#",
+	"#star##star##star##star##star##moon##star##star#",
+	"#star##star##star##star##star##star##moon##star#",
+	"#star##star##star##star##star##star##star##moon#",
+],
+	
+"night-bottom": [
+	"#cloud##star##star##star##star##star##star##star#",
+	"#star##cloud##star##star##star##star##star##star#",
+	"#star##star##star##star##star##star##star##star#",
+	"#star##star##star##cloud##star##star##cloud##star#",
+	"#star##cloud##star##star##cloud##star##star##star#",
+	"#star##star##star##star##star##star##cloud##star#",
+	"#cloud##star##star##cloud##star##star##star##star#",
+	"#star##cloud##star##star##star##star##cloud##cloud#",
+],
+	
 "cottagescape": [
 	"#tree##cottage##tree##tree##tree##tree##tree##tree#",
 	"#tree##tree##cottage##tree##tree##tree##tree##tree#",
@@ -21,6 +85,16 @@
 	"🌥 ",
 	"☀️",
 	"☀️"
+],
+	
+  
+"overcast-sun":[
+	"⛅️",
+	"⛅️",
+	"🌥 ",
+	"🌦",
+	"🌦"
+	"🌦"
 ],
   
 "moon":[
@@ -48,9 +122,23 @@
 	"🌟",
 	"💫",
 	"✨",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" "
 ],
   
-"sunny": [
+"cloud": [
 	"☁️",
 	"☁️",
 	"☁️",
@@ -62,9 +150,24 @@
 	"☁️",
 	"☁️",
 	"☁️",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
 ],
   
-"raining": [
+"rain": [
 	"🌧",
 	"⛈",
 	"🌩",
@@ -78,9 +181,21 @@
 	"💧",
 	"💧",
 	"💧",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
 ],
   
-"snowing": [
+"snow": [
 	"❄️",
 	"❄️",
 	"🌨",
@@ -93,6 +208,15 @@
 	"🌨",
 	"❄️",
 	"❄️"
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
+	" ",
 ],
   
 "cottage":[
@@ -130,5 +254,6 @@
 	"🌸",
 	"🌼",
 	"🍄"
-]
+],
+	
 }
