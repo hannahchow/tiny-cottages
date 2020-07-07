@@ -1,8 +1,8 @@
 {
 "origin": [
 	"#sunnyday-top#\n#sunnyday-bottom#\n#sunnyday-bottom#\n#cottagescape#\n#garden#", 
-	"#rainyday-top#\n#rainyday-bottom#\n#rainyday-bottom#\n#cottagescape#\n#garden#"],
-	"#night-top#\n#night-bottom#\n#night-bottom#\n#cottagescape#\n#garden#"],
+	"#rainyday-top#\n#rainyday-bottom#\n#rainyday-bottom#\n#cottagescape#\n#garden#",
+	"#night-top#\n#night-bottom#\n#night-bottom#\n#cottagescape#\n#garden#"
 ],
 	
 "sunnyday-top": [
