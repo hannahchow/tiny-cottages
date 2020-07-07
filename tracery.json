@@ -1,19 +1,44 @@
 {
 "origin": [
 	"#sunnyday-top#\n#sunnyday-bottom#\n#sunnyday-bottom#\n#cottagescape#\n#garden#", 
-	"#rainyday-top#\n#rainyday-bottom#\n#rainyday-bottom#\n#cottagescape#\n#garden#",
-	"#night-top#\n#night-bottom#\n#night-bottom#\n#cottagescape#\n#garden#"
+	"#sunnyday-top#\n#rainyday-bottom#\n#rainyday-bottom#\n#cottagescape#\n#garden#",
+	"#sunnyday-top#\n#night-bottom#\n#night-bottom#\n#cottagescape#\n#garden#"
 ],
 	
 "sunnyday-top": [
-	"#sun##cloud##cloud##cloud##cloud##cloud##cloud##cloud#",
-	"#cloud##sun##cloud##cloud##cloud##cloud##cloud##cloud#",
-	"#cloud##cloud##sun##cloud##cloud##cloud##cloud##cloud#",
-	"#cloud##cloud##cloud##sun##cloud##cloud##cloud##cloud#",
-	"#cloud##cloud##cloud##cloud##sun##cloud##cloud##cloud#",
-	"#cloud##cloud##cloud##cloud##cloud##sun##cloud##cloud#",
-	"#cloud##cloud##cloud##cloud##cloud##cloud##sun##cloud#",
-	"#cloud##cloud##cloud##cloud##cloud##cloud##cloud##sun#"
+	"#sun#       ",
+	" #sun#      ",
+	"  #sun#     ",
+	"   #sun#    ",
+	"    #sun#   ",
+	"     #sun#  ",
+	"      #sun# ",
+	"       #sun#",
+	"#sun#       ",
+	" #sun#      ",
+	"  #sun#     ",
+	"   #sun#    ",
+	"    #sun#   ",
+	"     #sun#  ",
+	"      #sun# ",
+	"       #sun#",
+	"#sun# #cloud#    #cloud#",
+	"#sun##cloud#   #cloud#  ",
+	" #sun#      ",
+	" #sun#   #cloud# #cloud#",
+	" #cloud##sun##cloud#    ",
+	"#cloud# #sun#   #cloud# ",
+	"#cloud#  #sun#   #cloud#",
+	" #cloud# #sun#  #cloud# ",
+	" #cloud#  #sun#  #cloud#",
+	"#cloud# #cloud# #sun#   ",
+	" #cloud#  #cloud##sun#  ",
+	" #cloud#   #sun# #cloud#",
+	"   #cloud##cloud# #sun# ",
+	" #cloud#    #sun##cloud#",
+	"#cloud# #cloud#    #sun#",
+	" #cloud#    #cloud##sun#"
+	
 ],
 	
 "sunnyday-bottom": [
@@ -28,14 +53,14 @@
 ],
 
 "rainyday-top": [
-	"#overcast-sun##rain##rain##rain##rain##rain##rain##rain#",
-	"#rain##overcast-sun##rain##rain##rain##rain##rain##rain#",
-	"#rain##rain##overcast-sun##rain##rain##rain##rain##rain#",
-	"#rain##rain##rain##overcast-sun##rain##rain##rain##rain#",
-	"#rain##rain##rain##rain##overcast-sun##rain##rain##rain#",
-	"#rain##rain##rain##rain##rain##overcast-sun##rain##rain#",
-	"#rain##rain##rain##rain##rain##rain##overcast-sun##rain#",
-	"#rain##rain##rain##rain##rain##rain##rain##overcast-sun#"
+	"#overcast-sun#       ",
+	" #overcast-sun#      ",
+	"  #overcast-sun#     ",
+	"   #overcast-sun#    ",
+	"    #overcast-sun#   ",
+	"     #overcast-sun#  ",
+	"      #overcast-sun# ",
+	"       #overcast-sun#"
 ],
 
 "rainyday-bottom": [
@@ -50,14 +75,14 @@
 ],
 	
 "night-top": [
-	"#moon##star##star##star##star##star##star##star#",
-	"#star##moon##star##star##star##star##star##star#",
-	"#star##star##moon##star##star##star##star##star#",
-	"#star##star##star##moon##star##star##star##star#",
-	"#star##star##star##star##moon##star##star##star#",
-	"#star##star##star##star##star##moon##star##star#",
-	"#star##star##star##star##star##star##moon##star#",
-	"#star##star##star##star##star##star##star##moon#"
+	"#moon#       ",
+	" #moon#      ",
+	"  #moon#     ",
+	"   #moon#    ",
+	"    #moon#   ",
+	"     #moon#  ",
+	"      #moon# ",
+	"       #moon#"
 ],
 	
 "night-bottom": [
