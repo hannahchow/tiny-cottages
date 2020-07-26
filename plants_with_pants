@@ -1,0 +1,64 @@
+{
+"origin": [
+    "#config1#"
+],
+	
+
+"gap": ["　"],
+  
+  
+"config1": [
+  "#gap##plant##plant##plant#\n#gap##pant##pant##pant#"
+],
+
+"config2": [
+  "#plant##gap##plant##gap##plant#\n#pant##gap##pant##gap##pant#"
+],
+  
+"config3": [
+  "#plant##gap##plant##plant#\n#pant##gap##pant##pant#"
+],
+  
+"config4": [
+  "#plant##plant##gap##plant#\n#pant##pant##gap##pant#"
+],
+  
+"hand": [
+  "👍",
+  "🤞",
+  "✌️",
+  "🤟",
+  "🤘",
+  "✋",
+  "🖐",
+  "🖖",
+  "🤙"
+],
+
+"skintone": ["", "🏻", "🏼", "🏽", "🏾", "🏿"],
+   
+"plant": [
+	"🌷 ",
+	"🌹 ",
+	"🌺 ",
+	"🌸 ",
+	"🌼 ",
+	"🌻 ",
+	"🥀 ",
+	"🍄 ",
+	"🌱 ",
+	"🌿 ",
+	"☘️ ",
+	"🍀 ",
+	"🌵 ",
+	"🌾 "		
+],
+	
+"pant": [
+	"👖 "
+],
+  
+"hat": [
+    "🧢"
+ ]
+}
