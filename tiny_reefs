@@ -1,0 +1,133 @@
+{
+"origin": [
+	"#sky#\n\n#waves#\n#layer#\n#layer#\n#lowerlayer#\n#floor#"
+],
+	
+"sky": [
+	"#sun#       ",
+	" #sun#      ",
+	"  #sun#     ",
+	"   #sun#    ",
+	"    #sun#   ",
+	"     #sun#  ",
+	"      #sun# ",
+	"       #sun#"
+],
+	
+"waves": [
+	"#seafarer##wave##seafarer##wave##wave##wave##wave##wave#",
+	"#seafarer##wave##wave##wave##wave##wave##seafarer##wave#",
+	"#wave##seafarer##wave##wave##wave##wave##seafarer##wave#",
+	"#wave##seafarer##wave##seafarer##wave##wave##wave##wave#",
+	"#wave##wave##seafarer##wave##wave##wave##wave##seafarer#",
+	"#seafarer##wave##seafarer##wave##wave##wave##wave##wave#",
+	"#wave##wave##wave##seafarer##wave##wave##wave##seafarer#",
+	"#wave##wave##wave##wave##seafarer##wave##seafarer##wave#",
+	"#wave##wave##wave##seafarer##wave##seafarer##wave##wave#",
+	"#wave##seafarer##wave##wave##wave##seafarer##wave##wave#",
+	"#wave##wave##wave##wave##seafarer##wave##seafarer##wave#",
+	"#wave##wave##seafarer##wave##wave##seafarer##wave##wave#",
+	"#seafarer##wave##wave##wave##wave##wave##wave##seafarer#",
+	"#wave##wave##wave##wave##wave##wave##seafarer##seafarer#"
+],
+	
+"layer": [
+	"#creature##creature##creature##creature##creature##creature##creature##creature#"
+],
+	
+"lowerlayer": [
+	"#lowercreature##lowercreature##lowercreature##lowercreature##lowercreature##lowercreature##lowercreature##lowercreature#"
+],
+	
+"floor": [
+	"#crustacean##plant##plant##plant##plant##plant##plant##plant#",
+	"#plant##crustacean##plant##plant##plant##plant##plant##plant#",
+	"#plant##plant##crustacean##plant##plant##plant##plant##plant#",
+	"#plant##plant##plant##crustacean##plant##plant##plant##plant#",
+	"#plant##plant##plant##plant##crustacean##plant##plant##plant#",
+	"#plant##plant##plant##plant##plant##crustacean##plant##plant#",
+	"#plant##plant##plant##plant##plant##plant##crustacean##plant#",
+	"#plant##plant##plant##plant##plant##plant##plant##crustacean#"
+],
+	
+"seafarer": [
+	"#human##skintone#",
+	"#boat#"
+],
+	
+"creature": [
+	"#fish#",
+	"　",
+	"　"
+],
+
+"lowercreature": [
+	"#fish#",
+	"#fish#",
+	"#cephalopod#",
+	"　",
+	"　",
+	"　",
+	"　",
+	"　",
+	"　"
+],
+
+	
+"sun": [
+	"☀️",
+	"🌤",
+	"🌕",
+	"🌖",
+	"🌙",
+	"🌛",
+	"🌜"
+],
+
+"fish": [
+	"🐟",
+	"🐠",
+	"🐟",
+	"🐠",
+	"🐡"
+],
+
+"cephalopod": [
+	"🦑",
+    	"🐙"
+],
+
+"crustacean": [
+    	"🦞",
+    	"🦀",
+	"🦞",
+    	"🦀",
+	"🦞",
+    	"🦀",
+	"⚓️"	
+],
+
+"plant": [
+    	"🌱",
+    	"🌿"
+],
+
+"wave": [
+    	"🌊"
+],
+
+"boat": [
+    	"⛵️",
+    	"🚤"
+],
+
+"human": [
+    	"🏄",
+    	"🚣",
+    	"🏊"
+],
+
+"gender": ["♀️", "♂️", ""],
+"skintone": ["🏻", "🏼", "🏽", "🏾", "🏿"]
+
+}
