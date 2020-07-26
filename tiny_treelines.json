@@ -1,0 +1,117 @@
+{
+"origin": [
+	"#moonfield#\n#starfield#\n#starfield#\n#starfield#\n#starfield#\n#mountainscape#"
+],
+	
+"moonfield": [
+	"#star##moon##star##star##star##star##star##star#",
+	"#star##star##moon##star##star##star##star##star#",
+	"#star##star##star##moon##star##star##star##star#",
+	"#star##star##star##star##moon##star##star##star#",
+	"#star##star##star##star##star##moon##star##star#",
+	"#star##star##star##star##star##star##moon##star#"
+],
+	
+"starfield": [
+	"#star##star##star##star##star##star##star##star#"
+],
+	
+"mountainscape": [
+	"#mountainline##mountainline##mountainline##mountainline##mountainline##mountainline##mountainline#"
+],
+
+"mountainline": [
+	"#mountain#",
+	"#mountain#",
+	"#mountain#",
+	"#mountain#",
+	"#mountain#",
+	"#tree#",
+	"#tree#",
+	"#tree#",
+	"#tree#",
+	"#tree#",
+	"#tree#",
+	"#camp#"
+], 
+	
+"moon": [
+	"🌜",
+	"🌛",
+	"🌙",
+	"🌒",
+	"🌓",
+	"🌔",
+	"🌕",
+	"🌖",
+	"🌗",
+	"🌘"
+],
+
+"star": [
+	"#staroption#",
+	"　",
+	"　",
+	"　"
+],
+
+"staroption": [
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#smallstar#",
+	"#medstar#",
+	"#medstar#",
+	"#medstar#",
+	"#largestar#"  
+],
+
+"smallstar": [
+	"・",
+	"・",
+	"◦",
+	"◦",
+	"⋆",
+	"⋆",
+	"⋆",
+	"*"
+],
+
+"medstar": [
+	"⊹"
+], 
+
+"largestar": [
+	"✩",
+	"✶",
+	"✷",
+	"✴︎"
+],
+
+"mountain": [
+	"🏔",
+	"⛰",
+	"🏔",
+	"⛰",
+	"🏔",
+	"⛰",
+	"🗻"
+],
+
+"tree": [
+	"🌲",
+	"🌲",
+	"🌲",
+	"🎄"
+],
+	
+"camp": [
+	"🏕"
+]
+}
